@@ -1,0 +1,19 @@
+********************   Information to get from the variables 'Holiday_Flag' and 'Date' **********************
+
+the four largest holidays in the US are: 
+Super Bowl (first Sunday of February / second Sunday of February after changes to the format and schedule in 2021), 
+Labor Day  (first Monday in September), 
+Thanksgiving (fourth Thursday of November), and 
+Christmas (25 december).   
+
+The four holidays fall within the following dates in the dataset:
+
+Super Bowl (holiday + 5): 12-02-2010, 10-02-2012,
+Labor Day (holiday + 4) : 10-09-2010, 07-09-2012, 
+Thanksgiving(holiday + 1) : 26-11-2010,
+Christmas (next Friday): 31-12-2010, 30-12-2011
+
+We can use the 'Holiday_flag' and 'Date' variables to decide if the week of the reported 'Weekly_Sales' is a before_holiday week, holiday week or after_holiday week
+
+****************************** for a bigger Data Set *************************************
+https://www.kaggle.com/bletchley/course-material-walmart-challenge
